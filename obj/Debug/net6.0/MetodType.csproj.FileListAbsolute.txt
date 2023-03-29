@@ -1,0 +1,15 @@
+C:\Users\ClassTime\Downloads\MetodType\obj\Debug\net6.0\MetodType.csproj.AssemblyReference.cache
+C:\Users\ClassTime\Downloads\MetodType\obj\Debug\net6.0\MetodType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\Downloads\MetodType\obj\Debug\net6.0\MetodType.AssemblyInfoInputs.cache
+C:\Users\ClassTime\Downloads\MetodType\obj\Debug\net6.0\MetodType.AssemblyInfo.cs
+C:\Users\ClassTime\Downloads\MetodType\obj\Debug\net6.0\MetodType.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\Downloads\MetodType\bin\Debug\net6.0\MetodType.exe
+C:\Users\ClassTime\Downloads\MetodType\bin\Debug\net6.0\MetodType.deps.json
+C:\Users\ClassTime\Downloads\MetodType\bin\Debug\net6.0\MetodType.runtimeconfig.json
+C:\Users\ClassTime\Downloads\MetodType\bin\Debug\net6.0\MetodType.dll
+C:\Users\ClassTime\Downloads\MetodType\bin\Debug\net6.0\MetodType.pdb
+C:\Users\ClassTime\Downloads\MetodType\obj\Debug\net6.0\MetodType.dll
+C:\Users\ClassTime\Downloads\MetodType\obj\Debug\net6.0\refint\MetodType.dll
+C:\Users\ClassTime\Downloads\MetodType\obj\Debug\net6.0\MetodType.pdb
+C:\Users\ClassTime\Downloads\MetodType\obj\Debug\net6.0\MetodType.genruntimeconfig.cache
+C:\Users\ClassTime\Downloads\MetodType\obj\Debug\net6.0\ref\MetodType.dll
